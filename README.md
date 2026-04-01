@@ -11,7 +11,6 @@ I am a Frontend Developer with strong skills in React.js, Node.js, and MongoDB. 
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vidhyasagar118&theme=radical)
 
 ![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vidhyasagar118&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vidhyasagar118&layout=compact&theme=radical&count_private=true)
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
